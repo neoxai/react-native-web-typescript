@@ -1,0 +1,13 @@
+     
+tunnels:
+ website:
+   addr: 52076
+   host_header: localhost:52076
+   proto: http
+   subdomain: johngalearg
+ 
+ azure:
+   addr: 10000
+   host_header: localhost:10000
+   proto: http
+   subdomain: johnazureemulator

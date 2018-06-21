@@ -1,0 +1,1 @@
+ngrok start --all --config C:/Users/John/.ngrok2/ngrok.yml -config ngrok-project-config.yml  
