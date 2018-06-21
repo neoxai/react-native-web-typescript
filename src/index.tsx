@@ -1,3 +1,5 @@
+/** @format */
+
 // web entry
 import App from "./containers/App";
 import { Platform, AppRegistry } from "react-native";

@@ -1,3 +1,5 @@
+/** @format */
+
 import * as React from "react";
 import { Platform, StyleSheet, Text, View } from "react-native";
 import Hello from "../../components/Hello";
